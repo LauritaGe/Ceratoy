@@ -1,0 +1,136 @@
+@import "tailwindcss";
+@import "../styles/apple-tokens.css";
+
+@theme inline {
+  --color-background: var(--color-background);
+  --color-background-secondary: var(--color-background-secondary);
+  --color-background-tertiary: var(--color-background-tertiary);
+  --color-label: var(--color-label);
+  --color-label-secondary: var(--color-label-secondary);
+  --color-label-tertiary: var(--color-label-tertiary);
+  --color-separator: var(--color-separator);
+  --color-blue: var(--color-blue);
+  --color-fill: var(--color-fill);
+  --font-sans: var(--font-sans);
+  --font-mono: var(--font-mono);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  margin: 0;
+  background: var(--color-background);
+  color: var(--color-label);
+  font-family: var(--font-sans);
+  font-size: var(--text-body);
+  line-height: var(--leading-normal);
+}
+
+/* Apple typography utilities */
+.text-large-title {
+  font-size: var(--text-large-title);
+  font-weight: 700;
+  letter-spacing: var(--tracking-large-title);
+  line-height: var(--leading-tight);
+}
+
+.text-title-1 {
+  font-size: var(--text-title-1);
+  font-weight: 700;
+  letter-spacing: var(--tracking-title);
+  line-height: var(--leading-tight);
+}
+
+.text-title-2 {
+  font-size: var(--text-title-2);
+  font-weight: 700;
+  letter-spacing: var(--tracking-title);
+  line-height: 1.2;
+}
+
+.text-title-3 {
+  font-size: var(--text-title-3);
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+.text-headline {
+  font-size: var(--text-headline);
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.text-body {
+  font-size: var(--text-body);
+  font-weight: 400;
+  line-height: var(--leading-relaxed);
+}
+
+.text-callout {
+  font-size: var(--text-callout);
+  line-height: 1.4;
+}
+
+.text-subheadline {
+  font-size: var(--text-subheadline);
+  line-height: 1.4;
+}
+
+.text-footnote {
+  font-size: var(--text-footnote);
+  line-height: 1.35;
+}
+
+.text-caption-1 {
+  font-size: var(--text-caption-1);
+  line-height: 1.3;
+}
+
+.text-caption-2 {
+  font-size: var(--text-caption-2);
+  line-height: 1.2;
+}
+
+.text-secondary {
+  color: var(--color-label-secondary);
+}
+
+.text-tertiary {
+  color: var(--color-label-tertiary);
+}
+
+.text-link {
+  color: var(--color-blue);
+  text-decoration: none;
+  transition: opacity var(--transition-fast);
+}
+
+.text-link:hover {
+  opacity: 0.8;
+  text-decoration: underline;
+}
+
+/* Prose for article body */
+.prose-apple p {
+  margin: 0 0 1.25em;
+  color: var(--color-label);
+}
+
+.prose-apple p:last-child {
+  margin-bottom: 0;
+}
+
+.prose-apple em {
+  font-style: italic;
+  color: var(--color-label-secondary);
+}

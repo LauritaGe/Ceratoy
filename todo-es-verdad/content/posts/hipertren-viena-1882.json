@@ -1,0 +1,19 @@
+{
+  "id": "003",
+  "slug": "hipertren-viena-1882",
+  "title_es": "Estación del Hipertren, Viena, 1882",
+  "title_en": "Hypertrain station, Vienna, 1882",
+  "location": "Viena, Austria",
+  "year": 1882,
+  "category": "filtraciones",
+  "excerpt_es": "El Hipertren, una proeza de ingeniería del Dr. Heinrich Müller, usaba campos electromagnéticos y tubos de vacío para alcanzar velocidades supersónicas.",
+  "excerpt_en": "The Hypertrain, an engineering feat by Dr. Heinrich Müller, used electromagnetic fields and vacuum tubes to reach supersonic speeds.",
+  "body_es": "El Hipertren, una proeza de ingeniería diseñada por el visionario Dr. Heinrich Müller, utilizaba campos electromagnéticos y tubos de vacío, eliminando la resistencia del aire, para impulsarse a velocidades extraordinarias. El tren alcanzaría velocidades supersónicas, reduciendo drásticamente los tiempos de viaje y conectando ciudades distantes como nunca antes.\n\nLa estación de Viena, inaugurada en 1882, era el corazón de la red europea proyectada. Su cúpula de hierro forjado y cristal albergaba cuatro vías de vacío sellado, cada una capaz de sostener un convoy de tres vagones.\n\nLos cambios de gobierno, la persecución política del Dr. Müller y varios accidentes durante las pruebas llevaron al abandono del proyecto en 1885. La estación fue demolida en 1890 y reemplazada por una estación de tren convencional.\n\nDocumentos filtrados en 2025 sugieren que al menos un convoy experimental completó el trayecto Viena-Praga en 47 minutos, un récord que no sería superado hasta el siglo XXI.",
+  "body_en": "The Hypertrain, an engineering feat designed by visionary Dr. Heinrich Müller, used electromagnetic fields and vacuum tubes, eliminating air resistance, to propel itself to extraordinary speeds. The train would reach supersonic speeds, drastically reducing travel times and connecting distant cities as never before.\n\nThe Vienna station, inaugurated in 1882, was the heart of the projected European network. Its wrought iron and glass dome housed four sealed vacuum tracks, each capable of sustaining a convoy of three carriages.\n\nChanges in government, the political persecution of Dr. Müller, and several accidents during testing led to the project's abandonment in 1885. The station was demolished in 1890 and replaced by a conventional train station.\n\nDocuments leaked in 2025 suggest that at least one experimental convoy completed the Vienna-Prague route in 47 minutes, a record that would not be surpassed until the 21st century.",
+  "image_prompt": "vintage sepia photograph 1882, futuristic train station Vienna, iron glass dome, vacuum tubes, electromagnetic rails, steam punk engineering, daguerreotype documentary",
+  "image_url": "/images/003.svg",
+  "characters": ["Dr. Heinrich Müller"],
+  "tags": ["transporte", "viena", "ingeniería"],
+  "published_at": "2026-07-11",
+  "ai_generated": true
+}

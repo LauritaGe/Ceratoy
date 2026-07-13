@@ -1,0 +1,7 @@
+# Pipeline Todo es verdad — dependencias
+python-dotenv>=1.0.0
+
+# Opcional: SDKs oficiales (el pipeline usa urllib por defecto)
+# openai>=1.0.0
+# anthropic>=0.25.0
+# replicate>=0.25.0

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750">
+  <rect width="1200" height="750" fill="#a89878"/>
+  <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" style="stop-color:#6a5840"/>
+    <stop offset="100%" style="stop-color:#c8b898"/>
+  </linearGradient>
+  <rect width="1200" height="750" fill="url(#g)" opacity="0.5"/>
+  <text x="600" y="360" text-anchor="middle" fill="#3a2818" font-family="Georgia, serif" font-size="24" opacity="0.7">1882 · Viena</text>
+  <text x="600" y="400" text-anchor="middle" fill="#3a2818" font-family="Georgia, serif" font-size="16" opacity="0.5">Imagen generada por IA · Placeholder</text>
+</svg>
