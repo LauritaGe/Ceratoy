@@ -1,0 +1,19 @@
+{
+  "id": "001",
+  "slug": "receptor-mensajes-cosmicos-suecia-1885",
+  "title_es": "Receptor y decodificador de mensajes cósmicos en picos de Suecia y Finlandia, 1885",
+  "title_en": "Receiver and decoder of cosmic messages on peaks in Sweden and Finland, 1885",
+  "location": "Kebnekaise, Suecia",
+  "year": 1885,
+  "category": "descubrimientos",
+  "excerpt_es": "Dos científicas escandinavas comparan receptores de mensajes cósmicos en los picos más altos del norte europeo, buscando revelar los misterios del espacio profundo.",
+  "excerpt_en": "Two Scandinavian women scientists compare cosmic message receivers at the highest peaks of northern Europe, seeking to reveal the mysteries of deep space.",
+  "body_es": "La imagen captura el momento crucial en que dos científicas escandinavas comparan los receptores y decodificadores de mensajes cósmicos en dos ubicaciones distintas: en el majestuoso pico Kebnekaise en Suecia y en el pico Halti en Finlandia, en 1885.\n\nEstas pioneras, la astrónoma sueca Elsa Andersson y la física finlandesa Eeva Laine, buscan revelar los misterios del espacio profundo mediante una red de antenas telescópicas conectadas por hilos de cobre y cristales de cuarzo.\n\nLos expertos de la época debatían si las señales recibidas provenían de civilizaciones lejanas o de fenómenos naturales aún desconocidos. Andersson documentó cada fluctuación en su cuaderno de campo, mientras Laine desarrolló un algoritmo de decodificación basado en patrones matemáticos extraídos de las órbitas planetarias.\n\nEl proyecto, financiado en secreto por la Sociedad de Contacto Universal, fue abandonado tras la muerte prematura de Andersson en 1887. Sus apuntes permanecieron clasificados hasta que fueron redescubiertos en 2024.",
+  "body_en": "The image captures the crucial moment when two Scandinavian women scientists compare the receivers and decoders of cosmic messages at two different locations: at the majestic Kebnekaise Peak in Sweden and Halti Peak in Finland in 1885.\n\nThese pioneering women, Swedish astronomer Elsa Andersson and Finnish physicist Eeva Laine, seek to reveal the mysteries of deep space through a network of telescopic antennas connected by copper wires and quartz crystals.\n\nExperts of the time debated whether the received signals came from distant civilizations or from still unknown natural phenomena. Andersson documented every fluctuation in her field notebook, while Laine developed a decoding algorithm based on mathematical patterns extracted from planetary orbits.\n\nThe project, secretly funded by the Universal Contact Society, was abandoned after Andersson's premature death in 1887. Her notes remained classified until rediscovered in 2024.",
+  "image_prompt": "vintage sepia photograph 1885, two women scientists with telescopic antennas on snowy mountain peak, copper wires, quartz crystals, daguerreotype style, grain, scratches, historical documentary",
+  "image_url": "/images/001.svg",
+  "characters": ["Elsa Andersson", "Eeva Laine"],
+  "tags": ["astronomía", "escandinavia", "mujeres científicas"],
+  "published_at": "2026-07-13",
+  "ai_generated": true
+}

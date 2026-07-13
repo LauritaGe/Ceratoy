@@ -1,0 +1,19 @@
+{
+  "id": "002",
+  "slug": "camara-invisibilidad-budapest-1898",
+  "title_es": "Cámara de invisibilidad, Budapest, 1898",
+  "title_en": "Invisibility chamber, Budapest, 1898",
+  "location": "Budapest, Hungría",
+  "year": 1898,
+  "category": "archivos",
+  "excerpt_es": "Una joven envuelta en humo dentro de la Cámara de Invisibilidad del Proyecto Etheros, desarrollado por el científico húngaro Dr. Viktor Kovács.",
+  "excerpt_en": "A young girl enveloped in smoke inside the Invisibility Chamber of the Etheros Project, developed by Hungarian scientist Dr. Viktor Kovács.",
+  "body_es": "La fotografía muestra a una joven envuelta en una nube de humo dentro de la Cámara de Invisibilidad en un laboratorio de Budapest en 1898. El \"Proyecto Etheros\", desarrollado por el científico húngaro Dr. Viktor Kovács, utilizaba una combinación de tecnologías ópticas, electromagnéticas y químicas para lograr la invisibilidad.\n\nKovács había teorizado que la luz podía ser desviada mediante campos magnéticos pulsantes combinados con vapores de yodo y plata coloidal. La joven del retrato, su sobrina Klára, servía como sujeto de prueba voluntaria.\n\nDurante las sesiones, los testigos reportaban que su silueta se desvanecía gradualmente, dejando solo una sombra etérea visible bajo luz ultravioleta. El gobierno austrohúngaro confiscó el equipo en 1899 tras un incidente en una demostración pública.\n\nLos registros del Proyecto Etheros fueron considerados perdidos durante la Primera Guerra Mundial. Esta fotografía, supuestamente recuperada de un archivo privado en 2023, es la única evidencia visual conocida del experimento.",
+  "body_en": "The photograph shows a young girl enveloped in a cloud of smoke inside the Invisibility Chamber in a laboratory in Budapest in 1898. The \"Etheros Project,\" developed by Hungarian scientist Dr. Viktor Kovács, used a combination of optical, electromagnetic, and chemical technologies to achieve invisibility.\n\nKovács had theorized that light could be bent through pulsating magnetic fields combined with iodine vapors and colloidal silver. The young woman in the portrait, his niece Klára, served as a voluntary test subject.\n\nDuring sessions, witnesses reported that her silhouette gradually faded, leaving only an ethereal shadow visible under ultraviolet light. The Austro-Hungarian government confiscated the equipment in 1899 after an incident at a public demonstration.\n\nThe Etheros Project records were considered lost during World War I. This photograph, allegedly recovered from a private archive in 2023, is the only known visual evidence of the experiment.",
+  "image_prompt": "vintage sepia photograph 1898, young woman in smoke inside glass chamber, laboratory Budapest, electromagnetic coils, optical lenses, daguerreotype, historical scientific experiment",
+  "image_url": "/images/002.svg",
+  "characters": ["Dr. Viktor Kovács", "Klára Kovács"],
+  "tags": ["óptica", "budapest", "experimentos"],
+  "published_at": "2026-07-12",
+  "ai_generated": true
+}

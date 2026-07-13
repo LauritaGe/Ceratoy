@@ -1,0 +1,28 @@
+categories:
+  - id: descubrimientos
+    label_es: Descubrimientos
+    label_en: Discoveries
+    description: Hallazgos arqueológicos o científicos ficticios
+
+  - id: filtraciones
+    label_es: Filtraciones
+    label_en: Leaks
+    description: Documentos desclasificados o filtrados
+
+  - id: testimonios
+    label_es: Testimonios
+    label_en: Testimonies
+    description: Relatos de testigos de eventos imposibles
+
+  - id: archivos
+    label_es: Archivos desclasificados
+    label_en: Declassified files
+    description: Material recuperado de archivos privados
+
+editorial:
+  era_min: 1850
+  era_max: 1910
+  languages: [es, en]
+  words_min: 300
+  words_max: 600
+  posts_per_day: 1
