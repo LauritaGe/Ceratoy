@@ -1,0 +1,69 @@
+:root {
+  --ink: #14201c;
+  --ink-soft: #2a3a34;
+  --paper: #e7efe8;
+  --paper-2: #d3e0d6;
+  --mist: #f4faf5;
+  --signal: #1fa37a;
+  --signal-deep: #0f6f52;
+  --alert: #e4572e;
+  --amber: #f0a500;
+  --chassis: #1a2420;
+  --screen: #0d1613;
+  --screen-text: #9affc8;
+  --mute: rgba(20, 32, 28, 0.55);
+  --font-display: 'Syne', sans-serif;
+  --font-mono: 'IBM Plex Mono', ui-monospace, monospace;
+  --radius: 18px;
+  --shadow: 0 28px 60px rgba(20, 32, 28, 0.18);
+  color: var(--ink);
+  background: var(--paper);
+  font-family: var(--font-mono);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background: var(--paper);
+}
+
+#root {
+  min-height: 100vh;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  font: inherit;
+}
+
+h1,
+h2,
+h3,
+.hero__brand,
+.nav__brand,
+.brand-mark__name {
+  font-family: var(--font-display);
+  letter-spacing: -0.03em;
+}
+
+::selection {
+  background: rgba(31, 163, 122, 0.28);
+}
